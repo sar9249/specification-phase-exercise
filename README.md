@@ -123,7 +123,7 @@ We will improve the customizability of the software by allowing professors to be
 
 ## Wireframes
 
-![Wireframes](Wireframes/.png)
+![Wireframes](Wireframes.png)
 
 ## Clickable Prototype
 
