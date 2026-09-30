@@ -123,12 +123,11 @@ We will improve the customizability of the software by allowing professors to be
 
 ## Wireframes
 
-![Wireframes](Wireframes.png)
+![Wireframes](wireframes/Wireframes.png)
 
 ## Clickable Prototype
 
 https://www.figma.com/proto/Je0T7tBhZRXypHTDkgVlis/Wireframes?node-id=17-3&m=draw&scaling=min-zoom&content-scaling=fixed&page-id=17%3A2&starting-point-node-id=60%3A300&show-proto-sidebar=1&t=p0AahaOngOoUseYe-1
-
 ## Stakeholder Demo
 
 See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.
